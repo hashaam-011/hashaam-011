@@ -36,9 +36,10 @@
   <a href="https://discord.gg/Hashaam#2167" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  <p align="left">
-<a href="https://codepen.io/https://codepen.io/hashaam-khan-the-lessful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hashaam-khan-the-lessful" height="30" width="40" /></a>
-</p>
+  <a href="https://codepen.io/https://codepen.io/hashaam-khan-the-lessful" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+   generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hashaam-khan-the-lessful" height="30" width="40" />
+</a>
 </p>
 
 ---
