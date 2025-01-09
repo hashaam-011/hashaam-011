@@ -2,10 +2,9 @@
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 
 <p align="center">
-  🖊️ I’m currently working on **Open Source**  
-  🎓 BS Software Engineering student at **Fast National University of Computer Sciences**  
+  🖊️ I’m currently working on Software Development  
+  🎓 Software Engineering Grad @ **Fast National University of Computer Sciences**  
   📧 Email me at **hashaamkhan975@gmail.com**  
-  🖋️ I write articles on **Medium**
 </p>
 
 <!-- WakaTime Stats -->
