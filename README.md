@@ -3,8 +3,8 @@
 
 <p align="center">
   🖊️ I’m currently working on Software Development  
-  🎓 Software Engineering Grad @ **Fast National University of Computer Sciences**  
-  📧 Email me at **hashaamkhan975@gmail.com**  
+  🎓 Software Engineering Grad @ <strong>Fast National University of Computer Sciences</strong>  
+  📧 Email me at <strong>hashaamkhan975@gmail.com</strong>  
 </p>
 
 <!-- WakaTime Stats -->
@@ -13,6 +13,7 @@
     <img src="https://wakatime.com/badge/user/your-user-id.svg" alt="Total time coded since" />
   </a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
