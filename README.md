@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hashaam Khan</h1>
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 
-<p align="center">
-  🖊️ I’m currently working on Software Development  
-  🎓 Software Engineering Grad @ <strong>Fast National University of Computer Sciences</strong>  
-  📧 Email me at <strong>hashaamkhan975@gmail.com</strong>  
-</p>
-
 <!-- WakaTime Stats -->
 <p align="center">
   <a href="https://wakatime.com/@hashaam-011">
@@ -14,6 +8,13 @@
   </a>
 </p>
 
+<!-- Details with Bullet Points -->
+- 🖊️ I’m currently working on **Software Development**  
+- 🎓 Software Engineering Grad @ **Fast National University of Computer Sciences**  
+- 📧 Email me at **hashaamkhan975@gmail.com**  
+- 🌐 Available for **Freelancing** on [Upwork](https://upwork.com)  
+- 📝 I write articles on [Medium](https://medium.com/@hashaamkhan)  
+- 📹 I create videos on [YouTube](https://youtube.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
