@@ -12,7 +12,6 @@
 - 🎓 Software Engineering Grad @ FAST NUCES
 - 📧 Email me at **hashaamkhan975@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hashaam_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hashaam_18" height="30" width="40" /></a>
@@ -21,6 +20,11 @@
 <a href="https://medium.com/@hashaamkhan975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hashaamkhan975" height="30" width="40" /></a>
 <a href="https://discord.gg/Hashaam#2167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hashaam#2167" height="30" width="40" /></a>
 </p>
+
+## Recent Blogs 📝
+
+- [Continuous Integration (CI) and Continuous Delivery (CD): The Backbone of DevOps](https://medium.com/@hashaamkhan975/continuous-integration-ci-and-continuous-delivery-cd-the-backbone-of-devops-95f0d12c71ea)
+- [Create Serverless Apps Using Kubernetes and Knative: A Complete Guide](https://medium.com/@hashaamkhan975/create-serverless-apps-using-kubernetes-and-knative-a-complete-guide-e00afa9afa11)
 
 ## GitHub Stats 📊
 
