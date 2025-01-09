@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hashaam Khan</h1>
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 
-<!-- WakaTime Stats -->
+<!-- WakaTime Badge -->
 <p align="center">
   <a href="https://wakatime.com/@hashaam-011">
-    <img src="https://wakatime.com/badge/user/your-user-id.svg" alt="Total time coded since" />
+    <img src="https://wakatime.com/badge/user/181e2cbb-ed2b-46f3-8d1d-060d89cd36b6.svg" alt="WakaTime Total Time Tracked" />
   </a>
 </p>
 
-<!-- Details with Bullet Points -->
-- 🖊️ I’m currently working on **Software Development**  
+- 🖊️ I’m currently working on **Software Development**
 - 🎓 Software Engineering Grad @ FAST NUCES
-- 📧 Email me at **hashaamkhan975@gmail.com**  
-- 📝 I write articles on [Medium](https://medium.com/@hashaamkhan)  
+- 📧 Email me at **hashaamkhan975@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
