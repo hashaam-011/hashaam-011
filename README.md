@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meer Hashaam Khan</h1>
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/hashaam-011/Python-Puzzle/issues/1#issue-2778392030">
+<img align="right" alt="coding" width="400" src="https://github.com/hashaam-011/hashaam-011/blob/main/Screenshot%202025-01-09%20223153.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashaam-011&label=Profile%20views&color=0e75b6&style=flat" alt="hashaam-011" /> </p>
 
