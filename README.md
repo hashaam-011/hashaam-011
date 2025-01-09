@@ -10,11 +10,9 @@
 
 <!-- Details with Bullet Points -->
 - 🖊️ I’m currently working on **Software Development**  
-- 🎓 Software Engineering Grad @ **Fast National University of Computer Sciences**  
+- 🎓 Software Engineering Grad @ FAST NUCES
 - 📧 Email me at **hashaamkhan975@gmail.com**  
-- 🌐 Available for **Freelancing** on [Upwork](https://upwork.com)  
 - 📝 I write articles on [Medium](https://medium.com/@hashaamkhan)  
-- 📹 I create videos on [YouTube](https://youtube.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
