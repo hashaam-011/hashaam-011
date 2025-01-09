@@ -41,22 +41,15 @@
 ---
 
 ## GitHub Stats 📊
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hashaam-011&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## Top Languages 📚
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashaam-011&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## WakaTime Stats 📈
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hashaam011&layout=compact&theme=radical" alt="WakaTime Stats" />
 </p>
 
 ---
