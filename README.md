@@ -37,8 +37,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
   <a href="https://codepen.io/https://codepen.io/hashaam-khan-the-lessful" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-   generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hashaam-khan-the-lessful" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hashaam-khan-the-lessful" height="30" width="40" />
 </a>
 </p>
 
