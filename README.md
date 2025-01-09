@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hashaam Khan</h1>
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashaam-011&label=Profile%20views&color=0e75b6&style=flat" alt="hashaam-011" /> </p>
+<p align="center">
+  🖊️ I’m currently working on **Open Source**  
+  🎓 BS Software Engineering student at **Fast National University of Computer Sciences**  
+  📧 Email me at **hashaamkhan975@gmail.com**  
+  🖋️ I write articles on **Medium**
+</p>
 
-<p align="left"> <a href="https://twitter.com/hashaam_18" target="blank"><img src="https://img.shields.io/twitter/follow/hashaam-011?logo=twitter&style=for-the-badge" alt="hashaam_18" /></a> </p>
-
-- 🌱 I’m currently working on **Open Source**
-
-- 💬 Ask me about **MERN Stack**
-
-- 📧 Email me at **hashaamkhan975@gmail.com**
+<!-- WakaTime Stats -->
+<p align="center">
+  <a href="https://wakatime.com/@hashaam-011">
+    <img src="https://wakatime.com/badge/user/your-user-id.svg" alt="Total time coded since" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
