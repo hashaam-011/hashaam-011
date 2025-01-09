@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meer Hashaam Khan</h1>
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fgithub-profile-pictures&psig=AOvVaw01xJG2ycobyIGN2W9jrH5A&ust=1736529599446000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDIqYWT6YoDFQAAAAAdAAAAABAJ](https://pngtree.com/freebackground/in-the-style-of-light-navy-and-light-aquamarine_3175552.html)">
+<img align="right" alt="coding" width="400" src="https://github.com/hashaam-011/Python-Puzzle/issues/1#issue-2778392030">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashaam-011&label=Profile%20views&color=0e75b6&style=flat" alt="hashaam-011" /> </p>
 
