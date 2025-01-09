@@ -9,7 +9,7 @@
 <!-- WakaTime Badge -->
 <p align="center">
   <a href="https://wakatime.com/@hashaam011">
-    <img src="https://wakatime.com/badge/user/<your-user-id>.svg" alt="WakaTime Badge" />
+    <img src="https://wakatime.com/badge/user/@hashaam011.svg" alt="WakaTime Badge" />
   </a>
 </p>
 
