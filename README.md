@@ -13,10 +13,6 @@
   </a>
 </p>
 
-## 🧠 MonkeyType Typing Stats
-<!-- MONKEYTYPE:START -->
-<!-- MONKEYTYPE:END -->
-
 
 - 🖊️ I’m currently working on **Software Development**
 - 🎓 Software Engineering Grad @Fast Nuces
