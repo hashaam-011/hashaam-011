@@ -13,7 +13,6 @@
   </a>
 </p>
 
-
 - 🖊️ I’m currently working on **Software Development**
 - 🎓 Software Engineering Grad @Fast Nuces
 - 📧 Email me at **hashaamkhan975@gmail.com**
@@ -53,6 +52,12 @@
 - [Create Serverless Apps Using Kubernetes and Knative: A Complete Guide](https://medium.com/@hashaamkhan975/create-serverless-apps-using-kubernetes-and-knative-a-complete-guide-e00afa9afa11)
 
 ---
+
+## Publications 📄
+- [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models (ICSE 2025)](https://conf.researchr.org/details/icse-2025/nlbse-2025-papers/15/CodeComClassify-Automating-Code-Comments-Classification-using-BERT-based-Language-Mo)
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
