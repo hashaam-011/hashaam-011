@@ -53,6 +53,13 @@
 
 - [One Month of Learning, Failing, and Growing Through Outreachy: A reflection on my first open source journey, from confusion to contribution](https://medium.com/@hashaamkhan975/one-month-of-learning-failing-and-growing-through-outreachy-1860350b44a4)
 
+## 📄 Publications
+
+- [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models — Presented at ICSE 2025 (NLBSE Track)](https://conf.researchr.org/details/icse-2025/nlbse-2025-papers/15/CodeComClassify-Automating-Code-Comments-Classification-using-BERT-based-Language-Mo/)
+
+
+---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
