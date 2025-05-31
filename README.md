@@ -46,17 +46,23 @@
 </p>
 
 ---
-#Recent Blogs
-Continuous Integration (CI) and Continuous Delivery (CD): The Backbone of DevOps
+## 📚 Recent Blogs
+
+**[Continuous Integration (CI) and Continuous Delivery (CD): The Backbone of DevOps](https://medium.com/@hashaamkhan975/continuous-integration-ci-and-continuous-delivery-cd-the-backbone-of-devops-95f0d12c71ea)**  
 An overview of how CI/CD pipelines automate and streamline the software delivery lifecycle in modern DevOps environments.
 
-Create Serverless Apps Using Kubernetes and Knative: A Complete Guide
-A hands-on guide to building scalable serverless applications using Kubernetes and Knative, with code and architecture examples.
+---
 
-One Month of Learning, Failing, and Growing Through Outreachy
-A reflection on my first experience contributing to open source through Outreachy — from confusion and contribution to growth and gratitude.
+**[Create Serverless Apps Using Kubernetes and Knative: A Complete Guide](https://medium.com/@hashaamkhan975/create-serverless-apps-using-kubernetes-and-knative-a-complete-guide-e00afa9afa11)**  
+A hands-on guide to building scalable serverless applications using Kubernetes and Knative, complete with architecture insights and practical examples.
 
 ---
+
+**[One Month of Learning, Failing, and Growing Through Outreachy](https://medium.com/@hashaamkhan975/one-month-of-learning-failing-and-growing-through-outreachy-1860350b44a4)**  
+A reflection on my first experience contributing to open source through Outreachy — from initial confusion to meaningful contributions and valuable learning.
+
+---
+
 
 ## Publications 📄
 - [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models (ICSE 2025)](https://conf.researchr.org/details/icse-2025/nlbse-2025-papers/15/CodeComClassify-Automating-Code-Comments-Classification-using-BERT-based-Language-Mo)
