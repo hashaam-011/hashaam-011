@@ -52,12 +52,11 @@
 - [Create Serverless Apps Using Kubernetes and Knative: A hands-on guide to building scalable serverless apps with practical examples](https://medium.com/@hashaamkhan975/create-serverless-apps-using-kubernetes-and-knative-a-complete-guide-e00afa9afa11)
 
 - [One Month of Learning, Failing, and Growing Through Outreachy: A reflection on my first open source journey, from confusion to contribution](https://medium.com/@hashaamkhan975/one-month-of-learning-failing-and-growing-through-outreachy-1860350b44a4)
-
+- 
 ## 📄 Publications
 
 - [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models — Presented at ICSE 2025 (NLBSE Track)](https://conf.researchr.org/details/icse-2025/nlbse-2025-papers/15/CodeComClassify-Automating-Code-Comments-Classification-using-BERT-based-Language-Mo/)
-- - [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models]([https://conf.researchr.org/details/icse-2025/nlbse-2025-papers/15/CodeComClassify-Automating-Code-Comments-Classification-using-BERT-based-Language-Mo/](https://www.base-search.net/Record/061fd7d143a00d87a5b2aeb161a510a6d09ab186cc9415246b19932d0edc90d8))
-
+- [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models — Listed on BASE](https://www.base-search.net/Record/061fd7d143a00d87a5b2aeb161a510a6d09ab186cc9415246b19932d0edc90d8)
 
 ---
 
