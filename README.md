@@ -36,7 +36,10 @@
   <a href="https://codepen.io/hashaam-khan-the-lessful" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
   </a>
-</p>
+  <a href="https://scholar.google.com/citations?user=rLXXO_4AAAAJ&hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
+  </a>
+</p> 
 
 
 ## Top Languages 📚
