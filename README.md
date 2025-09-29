@@ -41,8 +41,11 @@
 ---
 
 Recent Blogs
-https://medium.com/@hashaamkhan975/spec-driven-development-with-spec-kit-34c443e3eaf6
-https://medium.com/@hashaamkhan975/i-reached-duolingos-top-league-but-was-it-worth-it-1a5df6bcf986
+  Spec-Driven Development with Spec Kit -  https://medium.com/@hashaamkhan975/spec-driven-development-with-spec-kit-34c443e3eaf6
+   https://medium.com/@hashaamkhan975/i-reached-duolingos-top-league-but-was-it-worth-it-1a5df6bcf986
+
+
+
 ## 📄 Publications
 
 - [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models — Presented at ICSE 2025 (NLBSE Track)](https://conf.researchr.org/details/icse-2025/nlbse-2025-papers/15/CodeComClassify-Automating-Code-Comments-Classification-using-BERT-based-Language-Mo/)
