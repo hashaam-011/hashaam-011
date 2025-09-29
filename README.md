@@ -39,9 +39,10 @@
 </p>
 
 ---
-## 📚 Recent Blogs - [Continuous Integration (CI) and Continuous Delivery (CD): An overview of how CI/CD pipelines automate and streamline the software delivery lifecycle in modern DevOps environments](https://medium.com/@hashaamkhan975/continuous-integration-ci-and-continuous-delivery-cd-the-backbone-of-devops-95f0d12c71ea) - [Create Serverless Apps Using Kubernetes and Knative: A hands-on guide to building scalable serverless apps with practical examples](https://medium.com/@hashaamkhan975/create-serverless-apps-using-kubernetes-and-knative-a-complete-guide-e00afa9afa11) - [One Month of Learning, Failing, and Growing Through Outreachy: A reflection on my first open source journey, from confusion to contribution](https://medium.com/@hashaamkhan975/one-month-of-learning-failing-and-growing-through-outreachy-1860350b44a4) - [How I Replaced 2 Days of Work with 2 AI Tools](https://medium.com/@hashaamkhan975/how-i-replaced-2-days-of-work-with-2-ai-tools-ac07b0a1414d)
 
-  
+Recent Blogs
+https://medium.com/@hashaamkhan975/spec-driven-development-with-spec-kit-34c443e3eaf6
+https://medium.com/@hashaamkhan975/i-reached-duolingos-top-league-but-was-it-worth-it-1a5df6bcf986
 ## 📄 Publications
 
 - [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models — Presented at ICSE 2025 (NLBSE Track)](https://conf.researchr.org/details/icse-2025/nlbse-2025-papers/15/CodeComClassify-Automating-Code-Comments-Classification-using-BERT-based-Language-Mo/)
