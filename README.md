@@ -42,7 +42,7 @@
 
 Recent Blogs
   Spec-Driven Development with Spec Kit -  https://medium.com/@hashaamkhan975/spec-driven-development-with-spec-kit-34c443e3eaf6
-   https://medium.com/@hashaamkhan975/i-reached-duolingos-top-league-but-was-it-worth-it-1a5df6bcf986
+  I Reached Duolingo’s Top League… But Was It Worth It? -  https://medium.com/@hashaamkhan975/i-reached-duolingos-top-league-but-was-it-worth-it-1a5df6bcf986
 
 
 
