@@ -1,11 +1,6 @@
 <h1 align="center"> I'm Hashaam </h1>
 <h3 align="center">Software Developer from Pakistan</h3>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashaam-011&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <!-- WakaTime Badge -->
 <p align="center">
   <a href="https://wakatime.com/@hashaam011">
@@ -31,18 +26,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
   </a>
 </p> 
-
-
-## Top Languages 📚
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashaam-011&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-Recent Blogs
-  Spec-Driven Development with Spec Kit -  https://medium.com/@hashaamkhan975/spec-driven-development-with-spec-kit-34c443e3eaf6
-
 
 
 ## 📄 Publications
