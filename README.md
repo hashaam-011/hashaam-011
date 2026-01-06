@@ -22,14 +22,15 @@
   <a href="https://medium.com/@hashaamkhan975" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
+  <a href="https://scholar.google.com/citations?user=rLXXO_4AAAAJ&hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
+  </a>
 </p> 
 
 
 ## 📄 Publications
 
 - [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models — Presented at ICSE 2025 (NLBSE Track)](https://conf.researchr.org/details/icse-2025/nlbse-2025-papers/15/CodeComClassify-Automating-Code-Comments-Classification-using-BERT-based-Language-Mo/)
-- [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models — Listed on BASE](https://www.base-search.net/Record/061fd7d143a00d87a5b2aeb161a510a6d09ab186cc9415246b19932d0edc90d8)
-
 ---
 
 <h3 align="left">Support:</h3>
