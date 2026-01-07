@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Hashaam </h1>
+<h1 align="center"> Hashaam </h1>
 <h3 align="center">Software Developer from Pakistan</h3>
 
 <!-- WakaTime Badge -->
@@ -27,11 +27,6 @@
   </a>
 </p> 
 
-
-## 📄 Publications
-
-- [CodeComClassify: Automating Code Comments Classification using BERT-based Language Models — Presented at ICSE 2025 (NLBSE Track)](https://conf.researchr.org/details/icse-2025/nlbse-2025-papers/15/CodeComClassify-Automating-Code-Comments-Classification-using-BERT-based-Language-Mo/)
----
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hashaam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hashaam" /></a></p><br><br>
