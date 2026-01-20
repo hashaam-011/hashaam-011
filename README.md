@@ -1,12 +1,7 @@
 <h1 align="center"> Hashaam </h1>
 <h3 align="center">Software Developer from Pakistan</h3>
 
-<!-- WakaTime Badge -->
-<p align="center">
-  <a href="https://wakatime.com/@hashaam011">
-    <img src="https://wakatime.com/badge/user/ff941790-21a3-4015-9c4b-eb9f8d5183dd.svg" alt="WakaTime Badge" />
-  </a>
-</p>
+
 
 - 🖊️ I’m currently working on **Software Development**
 - 🎓 Software Engineering Grad @Fast Nuces
