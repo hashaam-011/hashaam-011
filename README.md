@@ -18,5 +18,5 @@
 </p>
 
 <a href="https://www.hashaam.live/support" target="_blank">
-  <img src="https://img.shields.io/badge/-%E2%9A%A1%20FUEL%20THE%20GRIND%20%E2%80%94%20Keep%20the%20servers%20alive-1a1a2e?style=for-the-badge&labelColor=FF6B00&color=1a1a2e&logoColor=white" alt="Fuel the Grind" />
+  <img src="https://img.shields.io/badge/-%E2%9A%A1%20FUEL%20THE%20GRIND-1a1a2e?style=for-the-badge&labelColor=FF6B00&color=1a1a2e" alt="Fuel the Grind" />
 </a>
