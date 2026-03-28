@@ -15,7 +15,8 @@
   <a href="https://scholar.google.com/citations?user=rLXXO_4AAAAJ&hl=en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
   </a>
-  <a href="https://www.hashaam.live/support" target="_blank">
-    <img src="https://img.shields.io/badge/⚡%20FUEL%20THE%20GRIND-FF6B00?style=for-the-badge&logoColor=white" alt="Fuel the Grind" />
-  </a>
 </p>
+
+<a href="https://www.hashaam.live/support" target="_blank">
+  <img src="https://img.shields.io/badge/-%E2%9A%A1%20FUEL%20THE%20GRIND%20%E2%80%94%20Keep%20the%20servers%20alive-1a1a2e?style=for-the-badge&labelColor=FF6B00&color=1a1a2e&logoColor=white" alt="Fuel the Grind" />
+</a>
