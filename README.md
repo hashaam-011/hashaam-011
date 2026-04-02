@@ -1,9 +1,5 @@
-<h1 align="center"> Hashaam </h1>
-<h3 align="center">Software Developer from Pakistan</h3>
-
-- 🖊️ I'm currently working on **Software Development**
-- 🎓 Software Engineering Grad @Fast Nuces
-- 📧 Email me at **hashaamkhan975@gmail.com**
+Hi, I'm Hashaam — a software engineer who loves building things and typing fast.
+I enjoy crafting clean, functional software and pushing my limits every day. Got something cool in mind? Reach out at hashaamkhan975@gmail.com
 
 <p align="left">
   <a href="https://linkedin.com/in/hashaam011" target="_blank">
@@ -16,7 +12,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
   </a>
 </p>
-
 <a href="https://www.hashaam.live/support" target="_blank">
   <img src="https://img.shields.io/badge/-%E2%9A%A1%20FUEL%20THE%20GRIND-1a1a2e?style=for-the-badge&labelColor=FF6B00&color=1a1a2e" alt="Fuel the Grind" />
 </a>
