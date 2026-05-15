@@ -2,7 +2,7 @@ Hi, I'm Hashaam - software engineer who loves building things and typing fast. I
 
 <p align="left">
   <a href="https://www.hashaam.live/playwithands" target="_blank">
-    <img src="https://img.shields.io/badge/🟠_Play_With_Hands-FF6600?style=for-the-badge&logoColor=white" alt="Play With Hands" />
+    <img src="https://img.shields.io/badge/🟠_Play_With_Hands-FF6600?style=for-the-badge&logoColor=white" alt="" />
   </a>
 </p>
 
