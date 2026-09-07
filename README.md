@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hashaam </h1>
 
-<p>You can connect here.</p>
+<p>connect here.</p>
 
 <a href="https://github.com/hashaam-011/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="35" alt="GitHub" />
@@ -27,6 +27,6 @@
 </a>
 &nbsp;&nbsp;
 
-<p>Just grinding, learning, and building. Nothing much.</p>
+<p>grinding, learning, and building. Nothing much.</p>
 
 <p>📧 Email: <a href="mailto:hashaamkhan975@gmail.com">hashaamkhan975@gmail.com</a></p>
