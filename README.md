@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hashaam 👋</h1>
+<h1>Hi, I'm Hashaam </h1>
 
 <p>You can connect here.</p>
 
@@ -26,8 +26,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/duolingo.svg" width="35" alt="Duolingo" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:hashaamkhan975@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="35" alt="Gmail" />
-</a>
 
 <p>Just grinding, learning, and building. Nothing much.</p>
+
+<p>📧 Email: <a href="mailto:hashaamkhan975@gmail.com">hashaamkhan975@gmail.com</a></p>
