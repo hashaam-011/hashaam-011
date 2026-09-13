@@ -7,7 +7,8 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hashaam011/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="35" alt="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/linkedin/000000" width="35" alt="LinkedIn" />
+</a>
 &nbsp;&nbsp;
 <a href="https://www.hashaam.live/">
   <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="35" alt="Portfolio" />
