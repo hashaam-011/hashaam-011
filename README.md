@@ -7,8 +7,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hashaam011/">
-  <img src="https://img.shields.io/badge/-white?style=flat-square&logo=linkedin&logoColor=black&labelColor=white" width="35" alt="LinkedIn" />
-</a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="35" alt="LinkedIn" />
 &nbsp;&nbsp;
 <a href="https://www.hashaam.live/">
   <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="35" alt="Portfolio" />
